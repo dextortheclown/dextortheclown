@@ -43,6 +43,12 @@ Diploma in Information Technology, Minor in Data Analytics (Expected April 2026)
 
 ## 🚀 Projects
 
+### [Full Stack Project] (https://github.com/dextortheclown/SE200_Capstone_Project)
+Utilised Full stack framework, Next.js to construct a website showcasing a mockup of a insurance company to help keep track of customers and policies.
+- **Technologies Used:** Next.js, TypeScript, Tailwind CSS, Shadcn/ui, DBeaver and PostgreSQL
+- Retrieve data from database to display relevant information to the user.
+- Create and update information in the database to reflect the user’s input.
+
 ### [Stock Tracking Website](https://dextortheclown.github.io/Capstone-Project/)
 A web application that allows users to add stocks, specify quantities and purchase prices, and fetch the current stock prices to calculate profit/loss.
 - **Technologies Used:** React, NodeJS, Web APIs
