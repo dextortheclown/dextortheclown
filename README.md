@@ -28,6 +28,13 @@ Diploma in Information Technology, Minor in Data Analytics (Expected April 2026)
 - Developed skills in version control using Github.
 - Completed a capstone project involving creating an interactive website that utilises web APIs to fetch and display information about stocks to the user.
 
+### **SE200 Full Stack Web Development - Heicoders, 2024**
+- Learned advanced database usage such as ACID properties and normalising principles.
+- Developed projects in the framework, Next.js, and learnt web authentication and security
+- Learnt advanced programming in TypeScript with interface and class implementations
+- Used advanced APIs in GraphQL to implement efficient data retrieval, schema creation and querying data.
+- Completed a capstone project involving the creation of a mock-up policy website to perform database query and display crucial information to the user.
+
 ### **Data Analytics Bootcamp - Vertical Institute, 2023**
 - Acquired proficiency in tablaeu for statistical analysis and visualisation.
 - Studied statistical analysis and data visualization techniques using tools like Excel and Tableau.
