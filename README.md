@@ -70,8 +70,4 @@ A virtual storefront for a cake shop that provides essential information and eas
 - **Technologies Used:** HTML, CSS, JavaScript, jQuery
 - Aims to provide essential information, ease of access to the products offered.
 
-
-## 📊 Additional Information
-- **LinkedIn:** [linkedin.com/in/dexter-wong-jh/](https://www.linkedin.com/in/dexter-wong-jh/)
-
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me on LinkedIn.
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/dexter-wong-jh/).
