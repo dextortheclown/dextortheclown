@@ -57,13 +57,14 @@ Utilised Full stack framework, Next.js to construct a website showcasing a mocku
   - Retrieve data from database to display relevant information to the user.
   - Create and update information in the database to reflect the user’s input.
 
-### [Stock Tracking Website](https://dextortheclown.github.io/Capstone-Project/)
+### [Stock Tracking Website](https://github.com/dextortheclown/SE100-Capstone-Project)
 A web application that allows users to add stocks, specify quantities and purchase prices, and fetch the current stock prices to calculate profit/loss.
 - **Technologies Used:** React, NodeJS, Web APIs
 - **Features:**
   - Add new stocks with their symbol, quantity, and purchase price.
   - Fetch and display the latest stock price using the Alpha Vantage API.
   - Display the profit/loss for each stock based on the current price.
+  - Live Website: [Link](https://se-100-capstone-project.vercel.app/)
 
 ### [Cake Shop Mockup Website](https://dextortheclown.github.io/Assignment-1/)
 A virtual storefront for a cake shop that provides essential information and ease of access to the products offered.
