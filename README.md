@@ -64,11 +64,12 @@ A web application that allows users to add stocks, specify quantities and purcha
   - Add new stocks with their symbol, quantity, and purchase price.
   - Fetch and display the latest stock price using the Alpha Vantage API.
   - Display the profit/loss for each stock based on the current price.
-  - Live Website: [Link](https://se-100-capstone-project.vercel.app/)
+  - Live Website: [Website Link](https://se-100-capstone-project.vercel.app/)
 
-### [Cake Shop Mockup Website](https://dextortheclown.github.io/Assignment-1/)
+### [Cake Shop Mockup Website](https://github.com/dextortheclown/Assignment-1)
 A virtual storefront for a cake shop that provides essential information and ease of access to the products offered.
 - **Technologies Used:** HTML, CSS, JavaScript, jQuery
 - Aims to provide essential information, ease of access to the products offered.
+- Live Website: [Website Link](https://dextortheclown.github.io/Assignment-1/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/dexter-wong-jh/).
